@@ -148,6 +148,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+--root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.ProGrids.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Registration.dll
@@ -155,7 +156,6 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Device.dll
---root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Threading.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Networking.dll
@@ -317,6 +317,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+--root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.ProGrids.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Registration.dll
@@ -324,7 +325,6 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Device.dll
---root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Threading.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=C:\Users\kryst\main\Temp\StagingArea\Data\Managed\Unity.Services.Core.Networking.dll
